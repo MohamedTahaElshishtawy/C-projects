@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1708133828 source:c:\users\windows\desktop\bank database\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bank Database.h"
+
+1708134767 source:c:\users\windows\desktop\bank database\bank database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bank Database.h"
+
+1708131532 c:\users\windows\desktop\bank database\bank database.h
+
+1708133828 source:e:\bank database\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bank Database.h"
+
+1708131532 e:\bank database\bank database.h
+
